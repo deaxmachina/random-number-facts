@@ -1,6 +1,6 @@
 # Random Number Facts
 
-## Description: 
+## Description
 - Simple React app using API for random number facts (http://numbersapi.com/)
 - Done as one of a few mini-projects to get familiar with React. 
 
